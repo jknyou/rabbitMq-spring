@@ -1,2 +1,2 @@
-rabiitMq-spring
+rabbitMq-spring
 ===============
